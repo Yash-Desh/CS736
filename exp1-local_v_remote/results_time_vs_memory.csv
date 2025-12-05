@@ -1,0 +1,11 @@
+Memory_MB,Placement,Runtime_sec
+512,local,0.132073
+512,remote,0.185245
+1024,local,0.255269
+1024,remote,0.363459
+2048,local,0.503585
+2048,remote,0.729684
+4096,local,1.016759
+4096,remote,1.455129
+8192,local,1.967542
+8192,remote,2.882376

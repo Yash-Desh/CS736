@@ -1,0 +1,13 @@
+Threads,Placement,Runtime_sec
+1,local,12.262056
+1,remote,13.648942
+2,local,6.228254
+2,remote,7.063627
+4,local,3.413221
+4,remote,3.891175
+8,local,1.878618
+8,remote,2.860464
+16,local,1.542022
+16,remote,2.842870
+32,local,1.593931
+32,remote,2.872048
